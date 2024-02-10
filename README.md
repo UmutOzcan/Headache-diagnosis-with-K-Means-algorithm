@@ -6,12 +6,12 @@ This project is Headache Diagnosis with K-Means Algorithm
 
 [Notebook](k-means-algoritması-ile-baş-ağrısı-tanısı.ipynb)
 
-[Output](output\output.xlsx)
+[Output](output/output.xlsx)
 
-[Input](input\data.csv)
+[Input](input/data.csv)
 
 ### Correlation HeatMap
 
-![HeatMap](output\heatmap.png)
+![HeatMap](output/heatmap.png)
 
 02.01.23
